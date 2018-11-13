@@ -1,0 +1,5 @@
+2018.11.13 12:36:02
+2018.11.13 12:36:13 :   SerialNo LVW4Y54562  Pages printed   42819 type <class 'str'> len 10 ip 10.1.3.55
+2018.11.13 12:36:22 :   SerialNo CNBVCCH18W  Pages printed   3783207 type <class 'str'> len 10 ip 10.1.11.55
+2018.11.13 12:36:32 :   SerialNo TD00ZPG  Pages printed   2908396 type <class 'str'> len 7 ip 10.1.27.35
+2018.11.13 12:36:42 :   SerialNo CNCVDCP18P  Pages printed   1221587 type <class 'str'> len 10 ip 10.1.15.55
